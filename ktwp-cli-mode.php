@@ -1,10 +1,12 @@
 <?php
 /*
 Plugin Name: Kupietools CLI Mode
-Description: Adds a Terminal
+Description: Adds a direct link to open the expert mode terminal
 Version: 1.0
 Author: Michael Kupietz
 */
+
+/* OBSOLETE - use KTWP CLI Opener */
 
 // Prevent direct access
 if (!defined('ABSPATH')) {
